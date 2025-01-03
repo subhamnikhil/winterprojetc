@@ -1,0 +1,217 @@
+<HTML> 
+<HEAD>
+<BODY>
+<H1>
+<font face ="cursive">PLACES FOR WINTER VACCATION
+</H1>
+<H2><font face ="cursive">MANALI
+</H2>
+
+<IMG STYLE="WIDTH: 65%"SRC="MANALI.JPG">
+
+<P>
+Manali is a popular tourist destination in the Himalayan state of Himachal Pradesh, India: 
+</P>
+<H3>Location</H3>
+<P>
+Manali is located in the Kullu Valley, about 170 miles north of Shimla and 338 miles northeast of New Delhi.
+</P>
+<H3>Known for</H3>
+<P>
+Manali is known for its snow-capped mountains, lush valleys, and cool climate. It's also a gateway to the Lahaul and Spiti district and Leh in Ladakh. 
+</P>
+<H3>Activities</H3>
+<P>
+Manali offers many activities, including:
+</P>
+<style>
+h5:before {
+    content: ' \00B7';
+}
+</style>
+<H5>Adventure sports:</H5><P> White water rafting, rowing, river crossing, paragliding, and skiing .</P>
+ 
+<H5>Trekking:</H5><P>Manali has many trekking options, from easy to challenging.</P>
+ 
+ <H5>Exploring local culture:</H5<P>Visit the charming villages and temples to learn about the local lifestyle and culture </P> 
+
+<IMG STYLE="WIDTH:65%" SRC= MANALI(2).JPG>
+
+<H3>Climate</H3><P>The best time to visit Manali depends on the season:</P>
+
+<H5>September–February:</H5><P>Winter sets in, and temperatures can drop to -1°C </P>
+
+<H5>December–January:</H5><P> A popular time for honeymooners and skiing </P>
+<H5>March–June:</H5><P> Summer 
+begins, and temperatures are usually between 10°C–25°C </P>
+
+<H5>July–August:</H5><P>Monsoons can bring heavy rainfall and landslides </P>
+
+<H3>History</H3><P>Manali is said to be the abode of Manu, the first man and lawgiver, according to Hindu mythology. The town's name is derived from "Manu-Alaya," which means "the abode of Manu". </P>
+
+<H3>Culture</H3><P>Manali is a cultural melting pot, with influences from Aryans, Buddhists, and the local population. </P>
+
+<IMG STYLE="WIDTH:65%" SRC=MANALI(3).JPG>
+
+<a  href="https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh">READ MORE</a>
+
+<H2>SHIMLA</H2>
+
+<IMG STYLE="WIDTH:65%"SRC=SHIMLA.JPG>
+
+<P>Shimla is the capital of Himachal Pradesh and was once the summer capital of British India. It's a popular tourist destination known for its scenic location, colonial architecture, and natural beauty: </P>
+
+<H3>Location</H3>
+<P>Shimla is built on several hills and ridges, including Jakhu, Prospect Hill, Observatory Hill, Elysium Hill, and Summer Hill. It's located at 30° 6' North latitude and 77° 11' East longitude, with a mean elevation of 2,397.59 meters above sea level. </P>
+
+<H3>Climate</H3>
+<P>Shimla's average summer temperature is 16–25 °C (61–77 °F), and the average winter temperature is 3–11 °C (37–52 °F). Snowfall has been happening in January or early February in recent years. </P>
+
+<IMG STYLE="WIDTH:65%"SRC="SHIMLA(2).JPG">
+
+<H3>Attractions</H3>
+<P>Shimla has many attractions, including:</P>
+
+<H5>The Mall:</H5><P>A shopping and dining area in the center of town .</P>
+
+<H5>Scandal Point:</H5><P> A popular spot for watching the sunset and taking in the views.</P>
+
+<H5>Jakhu Temple:</H5><P>A temple dedicated to the monkey god, Hanuman, with views of the surrounding valleys and snow-capped peaks. </P>
+
+<H5>State Museum:</H5><P> A museum housed in a colonial mansion with a collection of ancient and contemporary art. </P>
+
+<H5>Viceregal Lodge:</H5><P>A grand old building on Observatory Hill. </P>
+
+<H5>Iron lamp posts:</H5><P>Charming lamp posts that are part of Shimla's colonial heritage. </P>
+
+<H5>Anglo-Saxon names:</H5><P> Many streets in Shimla have Anglo-Saxon names 
+History.</P>
+
+<IMG STYLE="WIDTH:65%"SRC="SHIMLA(3).JPG">
+
+<H3>History</H3>
+<P>Shimla was discovered by the British in 1819 and became the summer capital of India in 1864. The town was built to provide a safe place for soldiers to rest after the Gorkha War. </P>
+
+
+<a  href="https://en.wikipedia.org/wiki/Shimla">READ MORE</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</BODY>
+</HEAD>
+</HTML>
